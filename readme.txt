@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+基于Java的生命游戏（Game Of Life），有GUI界面，完整可运行
